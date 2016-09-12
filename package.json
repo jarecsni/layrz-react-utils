@@ -1,6 +1,6 @@
 {
   "name": "layrz-react-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Some useful stuff for ReactJS",
   "main": "./index.js",
   "scripts": {
